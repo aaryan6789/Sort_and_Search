@@ -11,3 +11,7 @@ Searching Algorithms
 
 1. Binary Search
 2. Linear Search
+
+Time Complexities:
+
+O(n2) > O(n) > O(logn)
